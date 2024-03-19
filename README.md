@@ -14,4 +14,4 @@ no conteúdo da página, excluí todos os elementos <br> desnecessários;
 
 atualizei os atributos alt das imagens para descrever o conteúdo das imagens de forma acessível, conforme as boas práticas;
 
-por fim, otimizei a estrutura do HTML, agrupando elementos relacionados dentro de contêineres apropriados, como divs com classes específicas, para melhorar a legibilidade e manutenibilidade do código.
+por fim, otimizei a estrutura do HTML, agrupando elementos relacionados dentro de contêineres apropriados, como divs com classes específicas, para melhorar a legibilidade e manutenibilidade do código (além de identar todo o código corretamente, eliminando linhas vazias, para melhor visualização e entendimento do código).
